@@ -5,3 +5,4 @@
 3. [명령어 사이클과 인터럽트](./command_cycle_and_interrupt.md)
 4. [명령어 병렬처리 기법](./command_parallel_processing_technique.md)
 5. [명령어 집합(CISC, RISC)](./instruction_set_architecture.md)
+6. [RAM 파고들기](./ram.md)
