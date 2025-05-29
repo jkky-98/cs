@@ -14,4 +14,5 @@
 ## 운영체제
 1. [운영체제 개요](./os_overview.md)
 2.
-3. [소프트웨어 스레드](./thread.md)
+3. [프로세스 스레드](./thread.md)
+4. [CPU 스케줄링 & 스레딩 모델](./cpu_scheduling.md)
